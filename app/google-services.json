@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451958473662",
+    "firebase_url": "https://imagerecognition-228be.firebaseio.com",
+    "project_id": "imagerecognition-228be",
+    "storage_bucket": "imagerecognition-228be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451958473662:android:cd1e6e65a7200dbc1dafef",
+        "android_client_info": {
+          "package_name": "com.example.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451958473662-21956bl69p65pr9m5cfsqkrk436ue3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXZkkSwhaB-JI7QCX8hyMKcXd9jqHrlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451958473662-21956bl69p65pr9m5cfsqkrk436ue3n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
